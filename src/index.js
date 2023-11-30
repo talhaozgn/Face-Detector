@@ -4,9 +4,13 @@ import './index.css';
 import App from './App';
 // import registerServiceWorker from './registerServiceWorker';
 import 'tachyons';
+
+///////////////////////////////AMPLIFY
 // import { Amplify } from 'aws-amplify';
 // import config from './aws-exports';
 // Amplify.configure(config);
+
+/////////////////////////////////AMPLIFY
 
 
 const root = createRoot(document.getElementById('root'));
