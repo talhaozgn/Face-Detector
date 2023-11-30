@@ -4,9 +4,9 @@ import './index.css';
 import App from './App';
 // import registerServiceWorker from './registerServiceWorker';
 import 'tachyons';
-import { Amplify } from 'aws-amplify';
-import config from './aws-exports';
-Amplify.configure(config);
+// import { Amplify } from 'aws-amplify';
+// import config from './aws-exports';
+// Amplify.configure(config);
 
 
 const root = createRoot(document.getElementById('root'));
