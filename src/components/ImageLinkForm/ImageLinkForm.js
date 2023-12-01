@@ -9,7 +9,7 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
       </p>
 
       <p className='f3'>
-        {'Just copy and face image url and paste it to box below'}
+        {'Just copy a face image url and paste it to the box below'}
       </p>
 
 
